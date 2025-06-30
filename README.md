@@ -48,7 +48,7 @@ bash
 ```
 pip install -r requirements.txt
 ```
-Make sure you have your API Key ready from:\n
-https://platform.openai.com/api-keys \n
-Make a .env file and put it under this variable\n
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+Make sure you have your API Key ready from:<br/>
+https://platform.openai.com/api-keys <br/>
+Make a .env file and put it under this variable <br/>
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx <br/>
