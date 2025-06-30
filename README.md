@@ -36,7 +36,7 @@ Demo: https://resumerev.streamlit.app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Resume-Reviewer.git
+git clone https://github.com/Achref9/Resume-Reviewer.git
 cd Resume-Reviewer
 ```
 2. Create and activate a virtual environment (optional)
