@@ -2,6 +2,9 @@
 
 This is a Streamlit web application that allows you to upload a PDF (such as a resume or a written document) and receive a constructive critique summary tailored to a job role you specify.
 
+<br/>
+Demo: https://resumerev.streamlit.app/
+
 ---
 
 ## ✨ Features
