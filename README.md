@@ -52,5 +52,5 @@ Make sure you have your API Key ready from:<br/>
 https://platform.openai.com/api-keys <br/>
 Make a .env file and put it under this variable <br/>
 ```bash
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx <br/>
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
