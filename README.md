@@ -37,7 +37,7 @@ Demo: https://resumerev.streamlit.app/
 
 ```bash
 git clone https://github.com/your-username/Resume-Reviewer.git
-cd <Resume-Reviewer>
+cd Resume-Reviewer
 ```
 2. Create and activate a virtual environment (optional)
 bash
